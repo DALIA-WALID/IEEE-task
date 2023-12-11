@@ -1,0 +1,64 @@
+@media only screen and (max-width: 760px) {
+
+  }
+
+
+.container{
+    
+    background-image: url(./images/blue-image-1285095_1280.webp);
+        opacity: 90%;
+   background-size: cover;
+    height: 845px;
+  display: grid;
+    justify-content: center;
+    margin: 0%;
+   
+    }
+body{ 
+    margin: 0%;
+}
+h5{
+   padding-top: 20px;
+   padding-left: 200px;
+}
+p{
+    text-decoration-color: red;
+    display: grid;
+    justify-content: center;
+
+    font-weight:bold;
+    
+}
+.data{
+    width: 600px;
+    height: 550px;
+    background-color: white;
+    
+opacity: 90%;
+    color: rgb(28, 0, 165);
+   margin-top: 150px;
+   border-radius: 8%;
+display: grid;
+justify-content: center;
+align-items: center;
+
+   
+}
+input{
+height: 35px;
+width: 500px;
+margin: 20px;
+margin-left:40px;
+border-color: rgb(42, 0, 230);
+border-width: 1px;
+
+}
+.submit{
+    background-color: rgb(9, 9, 169);
+    color: aliceblue;
+}
+a{ color: whitesmoke;}
+a:hover {
+    background-color: rgb(12, 12, 243);
+    color: whitesmoke;
+  }
